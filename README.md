@@ -1,3 +1,17 @@
+# Weather App
+This is a simple React application that displays weather information for a given city. It fetches weather data from an external API and displays it to the user. The user can also toggle between Celsius and Fahrenheit units.
+
+# Features
+-Fetches weather data from an external API.
+
+-Displays weather information including temperature, description, and icon.
+
+-Dynamic background based on temperature.
+
+-Toggle between Celsius and Fahrenheit units.
+
+-Error handling for invalid city or network issues.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
